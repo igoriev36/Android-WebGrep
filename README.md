@@ -36,3 +36,4 @@ Extras:
 
 ## Bugs
 It does not work well with Unicode characters.
+There is only one callback link. Simultaneous requests cannot fire.
